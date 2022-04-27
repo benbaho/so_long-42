@@ -1,7 +1,7 @@
 # so_long
 so_long 2D game project without bonus files. 
 -------------------------------------------
-If you want to make it work "make" command will start the process. (./so_long maps/maps1.ber)
+If you want to make it work "make" command will start the process. (./so_long maps/map1.ber)
 -------------------------------------------
 
 
