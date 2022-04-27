@@ -1,2 +1,2 @@
 # 42-so_long
-100/100
+so_long 2D game project without bonus files. 
