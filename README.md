@@ -1,4 +1,4 @@
-# 42-so_long
+# so_long
 so_long 2D game project without bonus files. 
 -------------------------------------------
 If you want to make it work "make" command will start the process.
