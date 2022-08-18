@@ -1,5 +1,7 @@
 # so_long
 
+[![bdurmus's 42 so_long Score](https://badge42.vercel.app/api/v2/cl6z2b7h700110hmaifbxnscx/project/2537957)](https://github.com/JaeSeoKim/badge42)
+
 This is my first game that i have coded with C.
 -------------------------------------------
 so_long 2D game project without bonus files. 
